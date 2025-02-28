@@ -33,7 +33,7 @@ Me apasiona el desarrollo backend y disfruto creando soluciones eficientes y bie
 ---
 
 ## 📫 Contáctame  
-📌**[Portafolio](https://portfolio-wj37.onrender.com)**
-📌**[LinkedIn](https://www.linkedin.com/in/tadeo-agustin-iuliani/)**
+[Portafolio](https://portfolio-wj37.onrender.com)
+[LinkedIn](https://www.linkedin.com/in/tadeo-agustin-iuliani/)
 
 ✨ *Siempre aprendiendo y buscando nuevos desafíos 🚀*  
