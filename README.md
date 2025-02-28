@@ -13,7 +13,7 @@ Me apasiona el desarrollo backend y disfruto creando soluciones eficientes y bie
 ---
 
 ## 🛠️ Tecnologías y herramientas  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  
+![Node.js]([https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white](https://www.pngwing.com/es/free-png-pqstu))  
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
@@ -22,7 +22,6 @@ Me apasiona el desarrollo backend y disfruto creando soluciones eficientes y bie
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white) (aprendiendo)  
 
 ---
 
