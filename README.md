@@ -26,14 +26,13 @@ Me apasiona el desarrollo backend y disfruto creando soluciones eficientes y bie
 ---
 
 ## 📌 Proyectos  
-- 🔹 **[API REST para gestión de tareas](https://github.com/TuUsuario/API-Tareas)** – CRUD con autenticación JWT y Sequelize.  
-- 🔹 **[E-commerce de camisetas de fútbol](https://github.com/TuUsuario/EcommerceCamisetas)** – Backend con MySQL y validaciones.  
-- 🔹 **[Sistema de turnos con MySQL](https://github.com/TuUsuario/TurnosApp)** – Gestión de turnos con relaciones en la base de datos.  
+- 🔹 **[E-commerce de camisetas de fútbol](https://github.com/TadeoIuliani/TP1-UTN-PIII-C331)** – Frontend Basico.  
+- 🔹 **[Sistema de turnos con MySQL](https://github.com/TadeoIuliani/API_TURNOS)** – Gestión de turnos con relaciones en la base de datos.  
 
 ---
 
 ## 📫 Contáctame  
-📌 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tu-perfil/)  
-📌 [![Portafolio](https://img.shields.io/badge/Portafolio-Web-green)](https://tuportafolio.com)  
+📌 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tadeo-agustin-iuliani/)  
+📌 [![Portafolio](https://img.shields.io/badge/Portafolio-Web-green)](https://portfolio-wj37.onrender.com)  
 
 ✨ *Siempre aprendiendo y buscando nuevos desafíos 🚀*  
