@@ -13,15 +13,16 @@ Me apasiona el desarrollo backend y disfruto creando soluciones eficientes y bie
 ---
 
 ## 🛠️ Tecnologías y herramientas  
-![Node.js]([https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white](https://www.pngwing.com/es/free-png-pqstu))  
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
+- Node.js  
+- Express  
+- MySQL    
+- Sequelize
+- JavaScript
+- Docker  
+- JWT  
+- Git  
+- Python
+- C#  
 
 ---
 
@@ -32,7 +33,7 @@ Me apasiona el desarrollo backend y disfruto creando soluciones eficientes y bie
 ---
 
 ## 📫 Contáctame  
-📌 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tadeo-agustin-iuliani/)  
-📌 [![Portafolio](https://img.shields.io/badge/Portafolio-Web-green)](https://portfolio-wj37.onrender.com)  
+📌**[Portafolio](https://portfolio-wj37.onrender.com)**
+📌**[LinkedIn](https://www.linkedin.com/in/tadeo-agustin-iuliani/)**
 
 ✨ *Siempre aprendiendo y buscando nuevos desafíos 🚀*  
